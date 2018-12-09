@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "5897ffff-90ca-4db6-a83a-330ff9a8187d",
+            "Value": {
+                "id": "ddae6e72-028d-427b-a043-b1dc2dd8884f",
+                "resourcePath": "objects\\Color_button\\Color_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "695951bb-f61b-4b1f-b89c-d6d7877519bc",
             "Value": {
                 "id": "5d8690f4-f417-45bb-8ad6-887392190269",
@@ -172,6 +180,14 @@
                 "id": "06a21759-78db-47ab-b3d7-6825ef6b45d9",
                 "resourcePath": "views\\e21a971b-820e-456a-9934-31622b8f754c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5699357-586e-4630-a000-3c302edfa3ad",
+            "Value": {
+                "id": "75e4b3f2-f7a9-465f-8a0e-6bbd5531d838",
+                "resourcePath": "objects\\Canvas\\Canvas.yy",
+                "resourceType": "GMObject"
             }
         },
         {

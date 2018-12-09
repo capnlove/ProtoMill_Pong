@@ -1,0 +1,2 @@
+Drawit=true;
+WasDragging = true;
