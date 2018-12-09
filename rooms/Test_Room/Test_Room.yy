@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Test_Room",
     "id": "a4ebbf82-2c24-438f-bdeb-eb9253dc2306",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -21,7 +21,7 @@
             "name": "Assets_1",
             "id": "e8dcbbe4-f8ea-4169-a25f-32c4d30ecf4d",
             "assets": [
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_77019559","id": "b46887f4-64a9-483d-8d03-f2b10e1b088a","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "37917135-a5e6-455e-bcce-e29217829684","userdefined_animFPS": false,"x": 224,"y": 224}
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_77019559","id": "b46887f4-64a9-483d-8d03-f2b10e1b088a","animationFPS": 5,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "37917135-a5e6-455e-bcce-e29217829684","userdefined_animFPS": false,"x": 224,"y": 224}
             ],
             "depth": 0,
             "grid_x": 16,
