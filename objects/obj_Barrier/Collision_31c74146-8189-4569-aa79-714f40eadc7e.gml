@@ -12,4 +12,4 @@ switch(sounder){
 	break;
 }
 
-audio_play_sound_at(soundid,other.x,other.y,0,100,3000,1,false,0)
+audio_play_sound_at(soundid,other.x,other.y,1,100,3000,1,false,0)
