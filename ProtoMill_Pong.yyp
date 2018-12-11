@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "38241de0-33ea-44b7-b740-05ce526ddef9",
+            "Value": {
+                "id": "76364915-f682-4c24-b004-5af6ced5cd48",
+                "resourcePath": "objects\\obj_BFactory\\obj_BFactory.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4dabc659-1871-4cba-b7c6-de9806796aed",
             "Value": {
                 "id": "6608bd40-08ab-472a-baa1-4b6166ccd021",
@@ -340,6 +348,14 @@
                 "id": "8ddafa68-78cc-439b-b0d9-253940488094",
                 "resourcePath": "objects\\o_ball\\o_ball.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "df9d4c87-107a-465b-96a8-c0dd47508edd",
+            "Value": {
+                "id": "f6297ef4-f8da-4a46-8ad9-eb74930f4e56",
+                "resourcePath": "sprites\\Bells\\Bells.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

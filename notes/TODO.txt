@@ -1,4 +1,5 @@
 - Fix audio positioning (Z coord maybe?)
 - Try horizontal platforms (still swinging) as a novel approach to breakout.
-- Bells?
 	What if we link a pulley to the bell-ringing?
+Change all bells to a single color?
+- Add a ball factory with a lifetime for balls

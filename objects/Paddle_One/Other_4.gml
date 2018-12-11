@@ -16,5 +16,5 @@ var Bobber_id;
 
 if(instance_exists(tmpid))
 {
-Bobber_id = physics_joint_distance_create(id, tmpid,x+sprite_width/2,y,tmpid.x+tmpid.sprite_width/2, tmpid.y+tmpid.sprite_height/2, false)
+Bobber_id = physics_joint_distance_create(id, tmpid,x,y,tmpid.x+tmpid.sprite_width/2, tmpid.y+tmpid.sprite_height/2, false)
 }

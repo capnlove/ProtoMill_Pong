@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(image_index==0) image_index=1 
-else image_index=0
+physics_world_draw_debug(phy_debug_render_joints)
+draw_self()
