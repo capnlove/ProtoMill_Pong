@@ -1,0 +1,14 @@
+
+- Try horizontal platforms (still swinging) as a novel approach to breakout.
+	What if we link a pulley to the bell-ringing?
+Change all bells to a single color?
+
+The game is starting to take shape (lolz).
+I get a feeling of a protagonist other than the bells, as the swinging could occur in the background
+as the camera follow another object.
+Chandeliers, maybe
+
+- Chandelier swings to one side. Mice/Rats await on the platform ledge, jump when the chandelier gets close.
+	Swing to the other side and snap so as to slide to the next part of the level, taking control of another chandelier
+	
+	in the walls between "rooms"

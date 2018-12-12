@@ -1,5 +1,23 @@
-- Fix audio positioning (Z coord maybe?)
+
 - Try horizontal platforms (still swinging) as a novel approach to breakout.
 	What if we link a pulley to the bell-ringing?
 Change all bells to a single color?
-- Add a ball factory with a lifetime for balls
+
+
+The game is starting to take shape (lolz).
+I get a feeling of a protagonist other than the bells, as the swinging could occur in the background.
+Chandeliers, maybe.
+
+- Swinging and smashing against a solid tower is ALMOST fun.
+Would be better if that impact would make objects fall from its top (after a slight, comical delay)
+	- have a single tower object
+	- have a variable for all obj_Barriers which points to the objects to throw
+	
+	EXAMPLE ROOM : GurlInDaTower
+	
+- Bouncing against BounceBarriers can snap the string quickly.
+	Learn to release the swing before hitting the surface, so as to bounce gently off of it.
+	EXAMPLE ROOM : BounceSnap
+	
+- Snap so as to land on top of a pile of crates, watch it topple
+	EXAMPLE ROOM : LandOnTower

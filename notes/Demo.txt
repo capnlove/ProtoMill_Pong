@@ -1,0 +1,26 @@
+
+- Swinging and smashing against a solid tower is ALMOST fun.
+Would be better if that impact would make objects fall from its top (after a slight, comical delay)
+	- have a single tower object
+	- have a variable for all obj_Barriers which points to the objects to throw
+	
+	EXAMPLE ROOM : GurlInDaTower
+	
+- Bouncing against BounceBarriers can snap the string quickly.
+	Learn to release the swing before hitting the surface, so as to bounce gently off of it.
+	EXAMPLE ROOM : BounceSnap
+	
+- Snap so as to land on top of a pile of crates, watch it topple
+	EXAMPLE ROOM : LandOnTower
+	
+- What if you're a mouse in the rafters, switching pendulum/bell/chandelier by travelling the space between
+	rooms
+	EXAMPLE ROOM : Rat Race
+
+- Simple, hit targets on both ends of the swinging arc
+	Maybe it unlocks a new level, maybe it triggers something, etc.
+	- Sequences (Left Left Right) would allow players to practice precision swinging and counter balance
+	EXAMPLE ROOM : CloseTargets
+	
+- Targets could also require snap to hit, which makes them a one-shot deal (unless multiple bells)
+	EXAMPLE ROOM : DistantTargets

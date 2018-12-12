@@ -1,0 +1,2 @@
+- Fix audio positioning (Z coord maybe?)
+- Swing bar goes out of bounds sometimes

@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Create Joints
+
 var tmpid = -1
 
 //Find our match!
@@ -12,9 +12,9 @@ with(obj_Anchor){
 	}
 }
 
-var Bobber_id;
-
 if(instance_exists(tmpid))
 {
 Bobber_id = physics_joint_distance_create(id, tmpid,x,y,tmpid.x+tmpid.sprite_width/2, tmpid.y+tmpid.sprite_height/2, false)
+physics_joint_set_value(Bobber_id, phy_joint_damping_ratio, 0.95)
+//physics_joint_set_value(Bobber_id, phy_joint_frequency, 0.55)
 }
