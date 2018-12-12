@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "60912fd0-4e38-4577-a6eb-ff72db9cb5f5",
+            "Value": {
+                "id": "e5ddd00e-ac0d-430f-9c52-dddb0ceb8231",
+                "resourcePath": "sprites\\CoolMouse\\CoolMouse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "645286a3-1e69-4cc4-8b2f-e92e651a4c39",
             "Value": {
                 "id": "e69687a5-1360-47ed-a8e3-8162d14fecce",
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "885ecf57-0b5e-41e6-bf98-d1fdc73b1c45",
                 "resourcePath": "objects\\obj_BounceBarrier\\obj_BounceBarrier.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "73a9d93a-ea8b-429b-886f-bc148e314017",
+            "Value": {
+                "id": "59d146ad-4ae0-4626-8dcc-071235745828",
+                "resourcePath": "objects\\obj_Mouse\\obj_Mouse.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -12,3 +12,7 @@ Chandeliers, maybe
 	Swing to the other side and snap so as to slide to the next part of the level, taking control of another chandelier
 	
 	in the walls between "rooms"
+
+- Snapping the rope will be done by holding down a button
+	This will display a (maybe circular) progress bar, filling up as you hold the button.
+	Fill the bar to have your mouse bite through the rope, releasing the chandelier/bell/pendulum
